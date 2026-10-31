@@ -1,7 +1,7 @@
 <div align="center">
 
 # Mate-Toolkit
-# [Download Releases](https://github.com/MateAGYT/CliToApp/releases)
+# [Download Releases](https://github.com/MateAGYT/MateToolkit/releases)
 
 **A 90-tool Windows toolkit wrapping essential CLIs inside a fast, dark, and animated PyQt6 graphical interface — media, networking, recon, web utilities, and data tools in a single window.**
 
@@ -13,7 +13,7 @@
 ![Tools](https://img.shields.io/badge/tools-90-orange)
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white)
 
-> **`MateAGYT/CliToApp` is the exclusive official repository.** Avoid downloading builds from unverified sources.
+> **`MateAGYT/MateToolkit` is the exclusive official repository.** Avoid downloading builds from unverified sources.
 
 </div>
 

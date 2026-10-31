@@ -1,34 +1,45 @@
-# Mate-Toolkit
+<div align="center">
 
+# Mate-Toolkit
 # [Download Releases](https://github.com/MateAGYT/CliToApp/releases)
 
 **A 90-tool Windows toolkit wrapping essential CLIs inside a fast, dark, and animated PyQt6 graphical interface — media, networking, recon, web utilities, and data tools in a single window.**
 
+<img src="https://files.catbox.moe/vuhaid.png" width="500" />
+
+![Language](https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
+![GUI](https://img.shields.io/badge/gui-PyQt6-41CD52?logo=qt&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+![Tools](https://img.shields.io/badge/tools-90-orange)
+![Python](https://img.shields.io/badge/python-3.10%2B-blue?logo=python&logoColor=white)
+
 > **`MateAGYT/CliToApp` is the exclusive official repository.** Avoid downloading builds from unverified sources.
+
+</div>
 
 ---
 
 # 📑 Table of contents
 
-* [1. About](https://www.google.com/search?q=%23-about)
-* [2. Disclaimer & License](https://www.google.com/search?q=%23-disclaimer--license)
-* [3. Features](https://www.google.com/search?q=%23%EF%B8%8F-features)
-* [Media](https://www.google.com/search?q=%23-media)
-* [Network](https://www.google.com/search?q=%23-network)
-* [Recon](https://www.google.com/search?q=%23-recon)
-* [Web](https://www.google.com/search?q=%23-web)
-* [Data](https://www.google.com/search?q=%23-data)
-* [Utilities](https://www.google.com/search?q=%23-utilities)
-
-
-* [4. Why Mate-Toolkit?](https://www.google.com/search?q=%23-why-mate-toolkit)
-* [5. Comparison](https://www.google.com/search?q=%23-comparison)
-* [6. Requirements](https://www.google.com/search?q=%23-requirements)
-* [7. Installation](https://www.google.com/search?q=%23%EF%B8%8F-installation)
-* [8. Troubleshooting & FAQ](https://www.google.com/search?q=%23-troubleshooting--faq)
-* [9. Roadmap](https://www.google.com/search?q=%23-roadmap)
-* [10. Credits](https://www.google.com/search?q=%23-credits)
-* [11. Contributing](https://www.google.com/search?q=%23-contributing)
+- [1. About](#-about)
+- [2. Disclaimer & License](#-disclaimer--license)
+- [3. Features](#️-features)
+  - [Media](#-media)
+  - [Network](#-network)
+  - [Recon](#-recon)
+  - [Web](#-web)
+  - [Data](#-data)
+  - [Utilities](#-utilities)
+- [4. Why Mate-Toolkit?](#-why-mate-toolkit)
+- [5. Comparison](#-comparison)
+- [6. Requirements](#-requirements)
+- [7. Installation](#️-installation)
+- [8. Troubleshooting & FAQ](#-troubleshooting--faq)
+- [9. Roadmap](#-roadmap)
+- [10. Credits](#-credits)
+- [11. Contributing](#-contributing)
 
 ---
 
@@ -46,7 +57,7 @@ Background tasks execute asynchronously on worker threads to keep the UI respons
 
 **a) Disclaimer.** The software operates as a graphical frontend executing user-selected commands against designated targets. Ensure compliance with authorization protocols and legal regulations before scanning or testing networks.
 
-**b) License.** MIT License. See [`LICENSE`](https://www.google.com/search?q=LICENSE) for details.
+**b) License.** MIT License. See [`LICENSE`](LICENSE) for details.
 
 ---
 
@@ -57,7 +68,7 @@ Background tasks execute asynchronously on worker threads to keep the UI respons
 ## 🎥 Media
 
 | Tool | Function |
-| --- | --- |
+|---|---|
 | **yt-dlp** | Download media streams with preset formats and automatic ffmpeg integration. |
 | **ffmpeg** | Transcode media, extract audio tracks, and generate GIFs. |
 | **gallery-dl** | Bulk download image galleries from web links. |
@@ -72,7 +83,7 @@ Background tasks execute asynchronously on worker threads to keep the UI respons
 ## 🌐 Network
 
 | Tool | Function |
-| --- | --- |
+|---|---|
 | **nmap** | Execute scan profiles ranging from rapid checks to full TCP/UDP sweeps. |
 | **DNS Lookup** | Query multiple record types via secure DNS-over-HTTPS providers. |
 | **Zone Transfer** | Check name servers for AXFR configurations. |
@@ -87,7 +98,7 @@ Background tasks execute asynchronously on worker threads to keep the UI respons
 ## 🔍 Recon
 
 | Tool | Function |
-| --- | --- |
+|---|---|
 | **Subdomains** | Enumerate subdomains using certificate transparency logs. |
 | **Site DNA** | Inspect technology stacks, headers, and page metrics. |
 | **TLS Inspector** | Analyze certificate details and handshake validity. |
@@ -101,7 +112,7 @@ Background tasks execute asynchronously on worker threads to keep the UI respons
 ## 🕸️ Web
 
 | Tool | Function |
-| --- | --- |
+|---|---|
 | **HTTP Headers** | Inspect response headers and security hardening posture. |
 | **CORS Checker** | Test for insecure cross-origin resource sharing configurations. |
 | **sqlmap** | Automate database injection testing. |
@@ -114,7 +125,7 @@ Background tasks execute asynchronously on worker threads to keep the UI respons
 ## 📊 Data
 
 | Tool | Function |
-| --- | --- |
+|---|---|
 | **Hash Checker** | Verify file integrity against published cryptographic hashes. |
 | **Hash ID** | Identify hash algorithms using structural heuristics. |
 | **Encoder / Decoder** | Convert text across Base64, hex, URL, and binary formats. |
@@ -128,7 +139,7 @@ Background tasks execute asynchronously on worker threads to keep the UI respons
 ## 🧰 Utilities
 
 | Tool | Function |
-| --- | --- |
+|---|---|
 | **Passwords** | Generate secure credentials with customizable entropy metrics. |
 | **Identifiers** | Produce UUIDs and secure random tokens. |
 | **Timestamps** | Convert between Epoch time and ISO 8601 formats. |
@@ -141,18 +152,18 @@ Background tasks execute asynchronously on worker threads to keep the UI respons
 
 # 🏆 Why Mate-Toolkit?
 
-* **Unified Interface:** Access 90 tools from a single streamlined window.
-* **Guided Inputs:** Inline help explanations eliminate the need to memorize complex CLI flags.
-* **Portable Architecture:** Local tool folders keep your system clean without global environment clutter.
-* **Reliable State Check:** Environment validations verify binary readiness prior to execution.
-* **Robust Console Output:** Color-coded severity logging, asynchronous worker execution, and clean cancellation controls.
+- **Unified Interface:** Access 90 tools from a single streamlined window.
+- **Guided Inputs:** Inline help explanations eliminate the need to memorize complex CLI flags.
+- **Portable Architecture:** Local tool folders keep your system clean without global environment clutter.
+- **Reliable State Check:** Environment validations verify binary readiness prior to execution.
+- **Robust Console Output:** Color-coded severity logging, asynchronous worker execution, and clean cancellation controls.
 
 ---
 
 # 📊 Comparison
 
 | Feature | Mate-Toolkit | DevToys | CyberChef | Raw CLI |
-| --- | --- | --- | --- | --- |
+|---|---|---|---|---|
 | Offline Support | **✅** | ✅ | ✅ | ✅ |
 | Network & Recon Tools | **✅** | ❌ | 🟡 | ✅ |
 | Media Processing | **✅** | 🟡 | ❌ | ✅ |
@@ -164,9 +175,9 @@ Background tasks execute asynchronously on worker threads to keep the UI respons
 
 # 📋 Requirements
 
-* **Operating System:** Windows 10/11 (x64)
-* **Runtime:** Python 3.10+ (with Python added to system PATH)
-* **Disk Space:** ~400 MB minimum (additional space required for optional external tool downloads)
+- **Operating System:** Windows 10/11 (x64)
+- **Runtime:** Python 3.10+ (with Python added to system PATH)
+- **Disk Space:** ~400 MB minimum (additional space required for optional external tool downloads)
 
 ---
 
@@ -175,49 +186,5 @@ Background tasks execute asynchronously on worker threads to keep the UI respons
 1. Verify Python 3.10+ is installed with the PATH option enabled.
 2. Clone or download the repository source files.
 3. Install required Python packages:
-```cmd
-py -m pip install PyQt6 requests
-
-```
-
-
-4. Launch the application:
-```cmd
-py main.py
-
-```
-
-
-
----
-
-# 🔧 Troubleshooting & FAQ
-
-* **Import Errors:** Ensure all required dependencies are installed correctly via pip.
-* **Missing Built-ins:** Verify that system utilities like `ping` and `tracert` are available in `C:\Windows\System32`.
-* **Admin Privileges:** Advanced network scans (such as raw socket or SYN scans) require running the application with elevated administrator privileges.
-* **Antivirus Flags:** Unsigned portable binaries may trigger false positives; add exclusions for individual tool folders if necessary.
-
----
-
-# 🗺️ Roadmap
-
-* [ ] Global command palette across all integrated tools.
-* [ ] Exportable and saved user presets per tool.
-* [ ] Batch execution support across target lists.
-* [ ] Cross-platform support extensions for Linux and macOS environments.
-
----
-
-# 🙏 Credits
-
-* **PyQt6 / Qt** — Core graphical interface framework.
-* **Open-source binary maintainers** — ProjectDiscovery, Rapid7, and individual tool authors.
-
----
-
-# 🤝 Contributing
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Submit a pull request detailing your improvements.
+   ```cmd
+   py -m pip install PyQt6 requests

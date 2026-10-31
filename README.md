@@ -5,8 +5,6 @@
 
 **A 90-tool Windows toolkit wrapping essential CLIs inside a fast, dark, and animated PyQt6 graphical interface — media, networking, recon, web utilities, and data tools in a single window.**
 
-<img src="https://files.catbox.moe/vuhaid.png" width="500" />
-
 ![Language](https://img.shields.io/badge/language-Python-3776AB?logo=python&logoColor=white)
 ![Platform](https://img.shields.io/badge/platform-Windows-0078D6?logo=windows&logoColor=white)
 ![GUI](https://img.shields.io/badge/gui-PyQt6-41CD52?logo=qt&logoColor=white)
